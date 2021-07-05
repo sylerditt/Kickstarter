@@ -1,4 +1,4 @@
-# Kickstarter
+# Kickstarter-Analysis
 Module 1 Analyzing Kickstarter
 # Kickstarting with Excel
 
