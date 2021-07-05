@@ -32,7 +32,7 @@ We could look at a bar graph based on successful plays (or some other entertainm
 
 ## Figures
 ###Figure 1
-<img src="outcomes based on launch date.png">
+<img src="outcomes_based_on_launch_date.png">
 
 ###Figure 2
 <img src="outcomes_vs_goals.png">
